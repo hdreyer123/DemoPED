@@ -1,4 +1,4 @@
-echo "# DemoPED" >> README.md
+echo "# DemoPED" >> READUS.md
 git init
 git add README.md
 git commit -m "first commit"
